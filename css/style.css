@@ -253,6 +253,9 @@ footer{
     #info .todoInfo{
         padding: 10px;
     }
+    footer{
+        width: 100%;
+    }
 }
 @media (max-width: 1100px){
     #page{
